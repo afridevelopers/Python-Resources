@@ -1,7 +1,7 @@
 # Python-Resources
 
 ## Description
- Unlock your coding potential with our crafted Python projects. Level up your skills now by diving in and exploring the fruits of my python coding journey 
+ Unlock your coding potential with our crafted Python projects. Level up your skills now by diving in and exploring the fruits of our python coding journey 
  
  Here in this repository, you will find a set of python projects from simple to complex 
  most of time working in the console and sometime with GUI.
