@@ -31,6 +31,8 @@
 | 19     | [Phone Tracker](https://github.com/victorpreston/Python-CodeNest/tree/master/0x19-Phone-Tracker) |
 | 20     | [Automated Mailing](https://github.com/victorpreston/Python-CodeNest/tree/master/0x20-AutomatedMailing) |
 | 21     | [Text Editor](https://github.com/victorpreston/Python-CodeNest/tree/master/0x21TextEditor) |
+| 22     | [Youtube Viewer](https://github.com/victorpreston/Python-CodeNest/tree/master/0x22-YouTubeViewer) |
+| 23     | [Web Cloner](https://github.com/victorpreston/Python-CodeNest/tree/master/0x23-WebCloner) |
 
 
  
